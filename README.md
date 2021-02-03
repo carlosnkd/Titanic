@@ -14,3 +14,5 @@ The dataset has, for each passenger: Sex, Class, Name, Age, Sibilings, Parents, 
  * Modeling
  
  After all, the data set was uploaded in order to show my approach to this kind of problems. 
+
+#### Kaggle Competition Score: 0.77033
